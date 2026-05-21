@@ -44,11 +44,13 @@ table {
 *{
     margin: 0;
     padding: 0;
+    font-family: "Roboto" sans-serif;
 }
 
 body{
     background-color: rgba(241, 241, 241, 1);
     text-align: center;
+    font-family: "Roboto",  sans-serif;
 }
 
 .cont-1{
@@ -77,7 +79,7 @@ body{
 	left: 41px;
 	font-size: 20px;
 	font-weight: 700;
-	font-family: "Roboto";
+	font-family: "Roboto", sans-serif;
 	color: rgba(255, 255, 255, 1);
 }   
 
@@ -92,7 +94,7 @@ body{
 	padding-top: 68px;
 	padding-left: 37px;
 	color: rgba(138, 135, 135, 1);
-	font-family: "Roboto";
+	font-family: "Roboto", sans-serif;
 	font-size: 10px;
 	font-weight: 700;
 }
@@ -113,6 +115,7 @@ body{
     margin: 15px auto 0;
     align-items: center;
     gap: 40px;
+    font-family:"Roboto", sans-serif;
 }
 
 .nav a{
@@ -142,6 +145,7 @@ body{
     color:rgba(0, 0, 0, 1);
     text-align:left;
     margin-bottom:30px;
+    font-family: "Roboto", sans-serif;
 }
 
 .happening{
@@ -193,7 +197,7 @@ body{
     height:100%;
     margin:0 auto;
     display: flex;
-    align-content: center;
+    align-items: center;
     justify-content:space-between;
     padding-top: 20px;
     box-sizing: border-box;
@@ -203,6 +207,7 @@ body{
     display: flex;
     gap:80px;
     text-align: left;
+    font-family: "Roboto", sans-serif;
 }
 
 .ftext{
@@ -217,7 +222,7 @@ body{
 .footer-message{
     color:white;
     font-size: 12px;
-    font-weight: 400    ;
+    font-weight: 400;
 }
 
 .Geolab{
